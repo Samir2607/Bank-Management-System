@@ -74,9 +74,6 @@ Run the application:
 
 Execute Main.java to launch the application.
 
-📸 Screenshots
-(Add screenshots of your UI here – e.g., account creation, deposit screen, mini statement)
-
 🧠 Interview Introduction (Self-Intro)
 "I developed a Bank Management System, also known as an ATM Simulator System, using Core Java for the backend logic and Swing/AWT for the graphical interface. The system connects to a MySQL database using JDBC, and it simulates real-world banking features like creating new accounts, money deposits/withdrawals, generating mini statements, and PIN changes. It helped me solidify my knowledge of Java GUI development and database integration."
 
